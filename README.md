@@ -1,6 +1,6 @@
 PROJETO SORTEADOR DE NÚMEROS 
 
-LINK DIRETO: https://sorteadordenumeros.b-cdn.net/
+LINK DIRETO: https://caianp.github.io/sortedor-de-numeros/
 
 TECNOLOGIAS USADAS NESTE PROJETO
 
@@ -12,4 +12,4 @@ TECNOLOGIAS USADAS NESTE PROJETO
 
 IMAGEM DO PROJETO  
 
-![sorteador de números]https://caianp.github.io/sortedor-de-numeros/)
+![sorteador de números] https://caianp.github.io/sortedor-de-numeros/
