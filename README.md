@@ -12,4 +12,4 @@ TECNOLOGIAS USADAS NESTE PROJETO
 
 IMAGEM DO PROJETO  
 
-![sorteador de números](https://github.com/user-attachments/assets/845ac42d-fdcd-41d3-9a1d-896fdeec3569)
+![sorteador de números]https://caianp.github.io/sortedor-de-numeros/)
